@@ -21,7 +21,11 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Hello, My name is Haris. I am a software engineer and I love
+            building things. I am currently working on a project called Next.js
+            14. It is a new version of Next.js that is going to be released in
+            the next few months. I am really excited about it and I hope you
+            are too.
           </li>
         </ol>
 
